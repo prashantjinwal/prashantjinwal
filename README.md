@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img width="300px" align="center" src="https://gifdb.com/images/high/come-on-typing-cat-p9fvjhv1w1ed22hw.gif" />
+<img align="center" alt="me" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantjinwal&label=Profile%20views&color=0e75b6&style=flat" alt="prashantjinwal" /> </p>
 
