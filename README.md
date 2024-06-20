@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack Web developer from India</h3>
 
 # 💫 About Me:
 💬 Ask me about javascript , MERN<br>📫 How to reach me prashantjinwal888@gmail.com<br>⚡ Fun fact I think I am funny
