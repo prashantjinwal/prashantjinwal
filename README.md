@@ -1,20 +1,100 @@
-<h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center">A passionate FullStack Web developer from India</h3>
-
-# 💫 About Me:
-💬 Ask me about javascript , MERN<br>📫 How to reach me prashantjinwal888@gmail.com<br>⚡ Fun fact I think I am funny
+<!-- Banner or hero image (optional but adds appeal) -->
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/365747364745) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prashant__88__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prashant-jinwal-b863142a6/) 
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=C1121F&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prashant...." alt="Typing SVG" /></a></h1>
+<h3 align="center">🚀 Passionate Full Stack Web Developer | MERN Maniac | Open Source Enthusiast</h3>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
+---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=prashantjinwal&theme=dark&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantjinwal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🧠 About Me
 
+- 💻 I build full-stack web apps that make life easier & users happier.  
+- 🌱 Currently diving deeper into **TypeScript, FastAPI**, and **Docker**.  
+- 💬 Ask me about **JavaScript, React, Node, MongoDB, or anything MERN**.  
+- 📬 Reach me at **prashantjinwal888@gmail.com**  
+- 😄 Fun fact: I can write bug-free code on the first try (only in my dreams 😅)
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://discord.com/invite/365747364745" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/prashant__88__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/prashant-jinwal-b863142a6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🔧 Tech Stack
+
+### 🖥️ Languages & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,html,css" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,vite,figma" />
+</p>
+
+### 🛠 Backend & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,mongodb,deno,fastapi" />
+</p>
+
+### 🧪 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,render,github,git,npm" />
+</p>
+
+---
+
+## 🚀 My Projects
+
+| 🔥 Project | 🚀 Live | 🧠 Stack |
+|-----------|--------|---------|
+| **Investment Calculator** | [🌐 Visit](https://investment-calculator-three-lyart.vercel.app/) | React, JS |
+| **College Fest Website** | [🌐 Visit](https://www.kalravdduc.in/#/) | React, Tailwind |
+| **Task Manager App** | [🌐 Visit](https://task-manager-brown-five.vercel.app/) | MERN |
+| **DevGram - Devs Instagram** | *Coming Soon* 🚧 | MERN, Tailwind, JWT |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantjinwal&theme=tokyonight&show_icons=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjinwal&theme=tokyonight&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantjinwal&layout=compact&theme=tokyonight&hide_border=false" width="50%" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🌟 **Top Contributor** in multiple hackathons and team projects  
+- 💡 Built several **production-ready web apps**  
+- 👨‍💻 Core member of college **Tech & Cultural Council**  
+
+---
+
+## ✨ Let's Collaborate!
+
+> 🚀 I'm open to freelance projects, internships, or building something epic together.  
+> 🛠 Whether it's a startup idea or an open-source project — **let’s bring it to life!**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer"/>
+</p>
+
+<!-- Made with ❤️ by Prashant Jinwal -->
