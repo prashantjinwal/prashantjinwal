@@ -10,7 +10,7 @@
 
 - 💻 I build full-stack web apps that make life easier & users happier.  
 - 🌱 Currently diving deeper into **TypeScript, FastAPI**, and **Docker**.  
-- 💬 Ask me about **JavaScript, React, Node, MongoDB, or anything MERN**.  
+- 💬 Ask me about **JavaScript, React, Node, MongoDB, python, or anything MERN**.  
 - 📬 Reach me at **prashantjinwal888@gmail.com**  
 - 😄 Fun fact: I can write bug-free code on the first try (only in my dreams 😅)
 
