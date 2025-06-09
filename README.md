@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me..
 
 - 💻 I build full-stack web apps that make life easier & users happier.  
 - 🌱 Currently diving deeper into **TypeScript, FastAPI**, and **Docker**.  
