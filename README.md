@@ -56,16 +56,6 @@
 
 ---
 
-## 🚀 My Projects
-
-| 🔥 Project | 🚀 Live | 🧠 Stack |
-|-----------|--------|---------|
-| **Investment Calculator** | [🌐 Visit](https://investment-calculator-three-lyart.vercel.app/) | React, JS |
-| **College Fest Website** | [🌐 Visit](https://www.kalravdduc.in/#/) | React, Tailwind |
-| **Task Manager App** | [🌐 Visit](https://task-manager-brown-five.vercel.app/) | MERN |
-| **DevGram - Devs Instagram** | *Coming Soon* 🚧 | MERN, Tailwind, JWT |
-
----
 
 ## 📊 GitHub Stats
 
